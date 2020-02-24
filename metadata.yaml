@@ -1,0 +1,31 @@
+_repo: Josua_61461
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Judén, J.
+    gutenberg_agent_id: '51439'
+    url: http://www.gutenberg.org/2009/agents/51439
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, George Moritz
+    - Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2020-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61461'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Josua
+url: http://www.gutenberg.org/ebooks/61461
